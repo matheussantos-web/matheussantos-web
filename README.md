@@ -1,71 +1,78 @@
-# Olá, eu sou Matheus Santos 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Desenvolvedor Full Stack em formação
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Olá 👋, eu sou Matheus Santos</h1></summary>
+  </ul>
+</div>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente estou focado em desenvolvimento web, backend, APIs, automação e desenvolvimento de ferramentas.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Desenvolvedor Full Stack em Formação 🚀</h2></summary>
+  </ul>
+</div>
 
-Gosto de transformar problemas reais em sistemas e aprender novas tecnologias através de projetos práticos.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no SENAI.
 
----
+- 🔭 Atualmente focado em **Desenvolvimento Web, Backend, APIs, Automação e Ferramentas**.
 
-## Tecnologias
+- 🌱 Gosto de transformar problemas reais em sistemas eficientes e aprender novas tecnologias através de projetos práticos.
 
-### Front-end
+- 📝 Escrevendo código limpo e construindo soluções completas da interface ao banco de dados.
 
-* HTML
-* CSS
-* JavaScript
-* Tailwind CSS
+- 💬 Pergunte-me sobre **JavaScript, Node.js, Python, APIs REST, PostgreSQL e MongoDB**.
 
-### Back-end
+- 📫 Entre em contato: **matheus281197@gmail.com** | Discord: **teaga_01**
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheussantos-web&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheussantos-web&theme=dark&hide_border=false" /> 
+</td>
 
-* Node.js
-* Express
-* Python
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=matheussantos-web&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
 
-### Banco de Dados
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Troféus GitHub">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=matheussantos-web&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+</p> 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias e Ferramentas 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-* MongoDB
-* Postgres
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express,py,postgres,mongodb,git,github,vscode&perline=12" />
+  </a>
+</p>
 
-### Ferramentas
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
+  </ul>
+</div>
 
-* Git
-* GitHub
-* VS Code
+<p align="center">
+<a href="https://www.linkedin.com/in/matheus-santos-758641168/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:matheus281197@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" /></a> 
+<a href="https://wa.me/5521965115205" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="whatsapp" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/teaga_01" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
 
----
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=matheussantos-web&icon=3&color=6" />
+  </a>
+</div>
 
-## Projetos
-
-### GuildForge
-
-Sistema e bot para gerenciamento de guildas no Discord.
-
-**Tecnologias:** Python • Discord.py • **PostgreSQL** • API Rest
-
-### Cardápio Digital para Lojas
-
-Desenvolvimento de sites de cardápio digital para lojas, com apresentação de produtos, categorias e informações do estabelecimento.
-
-**Tecnologias:** HTML • CSS • JavaScript • Tailwind CSS
-
----
-
-## Atualmente estudando
-
-* JavaScript
-* Node.js
-* Python
-* APIs REST
-* Banco de dados
-* Git e GitHub
-* Desenvolvimento Full Stack
-
----
-
-## Contato
-
-**Portfólio:** em desenvolvimento
-**LinkedIn:** em desenvolvimento
-**Discord:** teaga_01
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
