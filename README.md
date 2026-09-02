@@ -62,10 +62,10 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/matheus-santos-758641168/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:matheus281197@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email" height="50" width="50" /></a> 
-<a href="https://wa.me/5521965115205" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="whatsapp" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/teaga_01" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/matheus-santos-758641168/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="mailto:matheus281197@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email" height="50" width="50" /></a> 
+  <a href="https://wa.me/5521965115205" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="whatsapp" height="50" width="50" /></a>
+  <a href="https://discord.com/users/teaga_01" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
 
